@@ -1,0 +1,9 @@
+setup.py
+AskLearn.egg-info/PKG-INFO
+AskLearn.egg-info/SOURCES.txt
+AskLearn.egg-info/dependency_links.txt
+AskLearn.egg-info/top_level.txt
+QAWithPDF/__init__.py
+QAWithPDF/data_ingestion.py
+QAWithPDF/embedding.py
+QAWithPDF/model_api.py
